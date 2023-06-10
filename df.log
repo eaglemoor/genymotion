@@ -1,0 +1,10 @@
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        7.2G     0  7.2G   0% /dev
+tmpfs           7.3G  408M  6.9G   6% /dev/shm
+tmpfs           2.9G  9.8M  2.9G   1% /run
+/dev/nvme0n1p5  5.0G  3.7G  1.2G  77% /
+/dev/nvme0n1p7  230M   41M  173M  20% /var
+overlay         230M   41M  173M  20% /etc
+/dev/nvme0n1p8  458G  112G  347G  25% /home
+tmpfs           7.3G  5.5M  7.3G   1% /tmp
+tmpfs           1.5G  204K  1.5G   1% /run/user/1000

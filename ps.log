@@ -1,0 +1,329 @@
+    PID TTY      STAT   TIME COMMAND
+      2 ?        S      0:00 [kthreadd]
+      3 ?        I<     0:00  \_ [rcu_gp]
+      4 ?        I<     0:00  \_ [rcu_par_gp]
+      6 ?        I<     0:00  \_ [kworker/0:0H-events_highpri]
+      8 ?        I<     0:00  \_ [mm_percpu_wq]
+     10 ?        S      0:00  \_ [rcu_tasks_kthre]
+     11 ?        S      0:00  \_ [rcu_tasks_rude_]
+     12 ?        S      0:00  \_ [rcu_tasks_trace]
+     13 ?        S      0:03  \_ [ksoftirqd/0]
+     14 ?        S      0:00  \_ [rcuc/0]
+     15 ?        I      0:09  \_ [rcu_preempt]
+     16 ?        S      0:00  \_ [rcub/0]
+     17 ?        S      0:00  \_ [migration/0]
+     18 ?        S      0:00  \_ [idle_inject/0]
+     20 ?        S      0:00  \_ [cpuhp/0]
+     21 ?        S      0:00  \_ [cpuhp/1]
+     22 ?        S      0:00  \_ [idle_inject/1]
+     23 ?        S      0:00  \_ [migration/1]
+     24 ?        S      0:00  \_ [rcuc/1]
+     25 ?        S      0:01  \_ [ksoftirqd/1]
+     27 ?        I<     0:00  \_ [kworker/1:0H-events_highpri]
+     28 ?        S      0:00  \_ [cpuhp/2]
+     29 ?        S      0:00  \_ [idle_inject/2]
+     30 ?        S      0:00  \_ [migration/2]
+     31 ?        S      0:00  \_ [rcuc/2]
+     32 ?        S      0:02  \_ [ksoftirqd/2]
+     34 ?        I<     0:00  \_ [kworker/2:0H-events_highpri]
+     35 ?        S      0:00  \_ [cpuhp/3]
+     36 ?        S      0:00  \_ [idle_inject/3]
+     37 ?        S      0:00  \_ [migration/3]
+     38 ?        S      0:00  \_ [rcuc/3]
+     39 ?        S      0:00  \_ [ksoftirqd/3]
+     41 ?        I<     0:00  \_ [kworker/3:0H-events_highpri]
+     42 ?        S      0:00  \_ [cpuhp/4]
+     43 ?        S      0:00  \_ [idle_inject/4]
+     44 ?        S      0:00  \_ [migration/4]
+     45 ?        S      0:00  \_ [rcuc/4]
+     46 ?        S      0:02  \_ [ksoftirqd/4]
+     48 ?        I<     0:00  \_ [kworker/4:0H-events_highpri]
+     49 ?        S      0:00  \_ [cpuhp/5]
+     50 ?        S      0:00  \_ [idle_inject/5]
+     51 ?        S      0:00  \_ [migration/5]
+     52 ?        S      0:00  \_ [rcuc/5]
+     53 ?        S      0:01  \_ [ksoftirqd/5]
+     55 ?        I<     0:00  \_ [kworker/5:0H-events_highpri]
+     56 ?        S      0:00  \_ [cpuhp/6]
+     57 ?        S      0:00  \_ [idle_inject/6]
+     58 ?        S      0:00  \_ [migration/6]
+     59 ?        S      0:00  \_ [rcuc/6]
+     60 ?        S      0:03  \_ [ksoftirqd/6]
+     62 ?        I<     0:00  \_ [kworker/6:0H-events_highpri]
+     63 ?        S      0:00  \_ [cpuhp/7]
+     64 ?        S      0:00  \_ [idle_inject/7]
+     65 ?        S      0:00  \_ [migration/7]
+     66 ?        S      0:00  \_ [rcuc/7]
+     67 ?        S      0:01  \_ [ksoftirqd/7]
+     69 ?        I<     0:00  \_ [kworker/7:0H-events_highpri]
+     70 ?        S      0:00  \_ [kdevtmpfs]
+     71 ?        I<     0:00  \_ [netns]
+     72 ?        I<     0:00  \_ [inet_frag_wq]
+     73 ?        S      0:00  \_ [khungtaskd]
+     74 ?        S      0:00  \_ [oom_reaper]
+     75 ?        I<     0:00  \_ [writeback]
+     76 ?        S      0:05  \_ [kcompactd0]
+     77 ?        SN     0:00  \_ [ksmd]
+     78 ?        SN     0:00  \_ [khugepaged]
+     99 ?        I<     0:00  \_ [kintegrityd]
+    100 ?        I<     0:00  \_ [kblockd]
+    101 ?        I<     0:00  \_ [blkcg_punt_bio]
+    102 ?        I<     0:00  \_ [ata_sff]
+    103 ?        I<     0:00  \_ [edac-poller]
+    104 ?        I<     0:00  \_ [devfreq_wq]
+    105 ?        S      0:00  \_ [watchdogd]
+    106 ?        I<     0:00  \_ [kworker/0:1H-kblockd]
+    108 ?        S      0:21  \_ [kswapd0]
+    110 ?        I<     0:00  \_ [kthrotld]
+    111 ?        S      0:00  \_ [irq/25-aerdrv]
+    112 ?        S      0:00  \_ [irq/25-pcie-dpc]
+    113 ?        S      0:00  \_ [irq/26-aerdrv]
+    114 ?        S      0:00  \_ [irq/26-pcie-dpc]
+    115 ?        S      0:00  \_ [irq/27-aerdrv]
+    116 ?        S      0:00  \_ [irq/27-pcie-dpc]
+    121 ?        I<     0:00  \_ [acpi_thermal_pm]
+    123 ?        I<     0:00  \_ [nvme-wq]
+    124 ?        I<     0:00  \_ [nvme-reset-wq]
+    125 ?        I<     0:00  \_ [nvme-delete-wq]
+    127 ?        I<     0:00  \_ [mld]
+    128 ?        I<     0:00  \_ [ipv6_addrconf]
+    139 ?        I<     0:00  \_ [kstrp]
+    144 ?        I<     0:00  \_ [zswap1]
+    145 ?        I<     0:00  \_ [zswap1]
+    146 ?        I<     0:00  \_ [zswap-shrink]
+    148 ?        I<     0:00  \_ [charger_manager]
+    175 ?        I<     0:00  \_ [kworker/2:1H-kblockd]
+    185 ?        I<     0:00  \_ [kworker/3:1H-kblockd]
+    197 ?        I<     0:00  \_ [kworker/6:1H-kblockd]
+    219 ?        I<     0:00  \_ [kworker/4:1H-kblockd]
+    266 ?        I<     0:00  \_ [kworker/5:1H-kblockd]
+    355 ?        I<     0:00  \_ [kworker/7:1H-kblockd]
+    373 ?        I<     0:00  \_ [kworker/1:1H-kblockd]
+    433 ?        S      0:02  \_ [irq/45-FTS3528:]
+    441 ?        I<     0:00  \_ [cryptd]
+    508 ?        I<     0:00  \_ [sdhci]
+    548 ?        S      2:02  \_ [gfx_0.0.0]
+    549 ?        S      0:00  \_ [comp_1.0.0]
+    550 ?        S      0:00  \_ [comp_1.1.0]
+    551 ?        S      0:00  \_ [comp_1.2.0]
+    552 ?        S      0:00  \_ [comp_1.3.0]
+    553 ?        S      0:00  \_ [comp_1.0.1]
+    554 ?        S      0:00  \_ [comp_1.1.1]
+    555 ?        S      0:00  \_ [comp_1.2.1]
+    556 ?        S      0:00  \_ [comp_1.3.1]
+    557 ?        S      0:00  \_ [sdma0]
+    558 ?        S      0:00  \_ [vcn_dec_0]
+    559 ?        S      0:00  \_ [vcn_enc_0.0]
+    560 ?        S      0:00  \_ [vcn_enc_0.1]
+    561 ?        S      0:00  \_ [jpeg_dec]
+    577 ?        I<     0:00  \_ [amdgpu_dm_hpd_r]
+    578 ?        I<     0:00  \_ [amdgpu_dm_hpd_r]
+    579 ?        I<     0:00  \_ [dm_vblank_contr]
+    580 ?        S      0:00  \_ [card0-crtc0]
+    581 ?        S      0:00  \_ [card0-crtc1]
+    582 ?        S      0:00  \_ [card0-crtc2]
+    583 ?        S      0:00  \_ [card0-crtc3]
+    617 ?        I<     0:00  \_ [btrfs-worker]
+    618 ?        I<     0:00  \_ [btrfs-worker-hi]
+    619 ?        I<     0:00  \_ [btrfs-delalloc]
+    620 ?        I<     0:00  \_ [btrfs-flush_del]
+    621 ?        I<     0:00  \_ [btrfs-cache]
+    622 ?        I<     0:00  \_ [btrfs-fixup]
+    623 ?        I<     0:00  \_ [btrfs-endio]
+    624 ?        I<     0:00  \_ [btrfs-endio-met]
+    625 ?        I<     0:00  \_ [btrfs-endio-met]
+    626 ?        I<     0:00  \_ [btrfs-endio-rai]
+    627 ?        I<     0:00  \_ [btrfs-rmw]
+    628 ?        I<     0:00  \_ [btrfs-endio-wri]
+    629 ?        I<     0:00  \_ [btrfs-freespace]
+    630 ?        I<     0:00  \_ [btrfs-delayed-m]
+    631 ?        I<     0:00  \_ [btrfs-readahead]
+    632 ?        I<     0:00  \_ [btrfs-qgroup-re]
+    633 ?        S      0:00  \_ [btrfs-cleaner]
+    634 ?        S      0:00  \_ [btrfs-transacti]
+    656 ?        S      0:00  \_ [jbd2/nvme0n1p7-]
+    657 ?        I<     0:00  \_ [ext4-rsv-conver]
+    763 ?        S      0:01  \_ [spi0]
+    779 ?        S      0:02  \_ [jbd2/nvme0n1p8-]
+    780 ?        I<     0:00  \_ [ext4-rsv-conver]
+    797 ?        I<     0:00  \_ [cfg80211]
+    801 ?        I<     0:00  \_ [cs35l41_ramp]
+    802 ?        S      0:00  \_ [irq/70-cs35l41]
+    806 ?        I<     0:00  \_ [cs35l41]
+    807 ?        I<     0:00  \_ [cs35l41_ramp]
+    808 ?        S      0:00  \_ [irq/70-cs35l41]
+    810 ?        I<     0:00  \_ [cs35l41]
+    815 ?        S      0:27  \_ [irq/74-rtw88_pc]
+    834 ?        S      0:00  \_ [irq/72-nau8821]
+   9694 ?        I      0:08  \_ [kworker/u32:1-events_unbound]
+  10771 ?        I      0:00  \_ [kworker/4:2-rcu_gp]
+  11225 ?        I      0:03  \_ [kworker/u32:9-events_unbound]
+  11226 ?        I      0:03  \_ [kworker/u32:10-events_unbound]
+  11836 ?        I      0:00  \_ [kworker/7:3-rcu_gp]
+  13267 ?        I      0:00  \_ [kworker/5:1-pm]
+  13268 ?        I      0:00  \_ [kworker/0:1-pm]
+  13269 ?        I      0:00  \_ [kworker/2:0-rcu_gp]
+  13280 ?        I      0:02  \_ [kworker/u32:0-events_unbound]
+  13281 ?        I      0:03  \_ [kworker/u32:2-events_unbound]
+  13289 ?        I      0:03  \_ [kworker/u32:3-events_unbound]
+  13290 ?        I      0:03  \_ [kworker/u32:4-events_unbound]
+  13642 ?        D      0:02  \_ [kworker/u32:5+events_unbound]
+  13725 ?        I      0:00  \_ [kworker/6:2-rcu_gp]
+  13764 ?        I      0:00  \_ [kworker/3:1-pm]
+  13825 ?        I<     0:00  \_ [kworker/u33:1-rtw_tx_wq]
+  14214 ?        I      0:00  \_ [kworker/1:2-pm]
+  14263 ?        I      0:00  \_ [kworker/5:0-events]
+  14346 ?        I      0:00  \_ [kworker/7:0-events]
+  14347 ?        I      0:00  \_ [kworker/1:0-pm]
+  14377 ?        I<     0:00  \_ [kworker/u33:0-hci0]
+  14445 ?        I      0:01  \_ [kworker/u32:6-events_unbound]
+  14447 ?        I      0:00  \_ [kworker/4:0-pm]
+  14481 ?        I      0:00  \_ [kworker/2:1-pm]
+  14495 ?        I      0:00  \_ [kworker/6:0-events]
+  14496 ?        I      0:00  \_ [kworker/3:2-events]
+  14559 ?        I      0:00  \_ [kworker/1:1-events]
+  14562 ?        I      0:00  \_ [kworker/0:2-pm]
+  14598 ?        I      0:00  \_ [kworker/u32:7-events_power_efficient]
+  14599 ?        I      0:00  \_ [kworker/u32:8-events_unbound]
+  14600 ?        I      0:00  \_ [kworker/u32:11-events_unbound]
+  14601 ?        I      0:00  \_ [kworker/u32:12-events_unbound]
+  14602 ?        I      0:00  \_ [kworker/u32:13-btrfs-endio]
+  14603 ?        I      0:00  \_ [kworker/u32:14-events_unbound]
+  14604 ?        I      0:00  \_ [kworker/u32:15-events_unbound]
+  14605 ?        I      0:00  \_ [kworker/u32:16-events_unbound]
+  14606 ?        I      0:00  \_ [kworker/u32:17-events_unbound]
+  14607 ?        I      0:00  \_ [kworker/7:1-mm_percpu_wq]
+  14608 ?        I      0:00  \_ [kworker/u32:18-events_unbound]
+  14609 ?        I      0:00  \_ [kworker/u32:19-btrfs-endio]
+  14610 ?        I      0:00  \_ [kworker/u32:20-events_unbound]
+  14611 ?        I      0:00  \_ [kworker/u32:21-events_unbound]
+  14612 ?        I      0:00  \_ [kworker/u32:22-events_unbound]
+  14613 ?        I      0:00  \_ [kworker/u32:23-events_unbound]
+  14614 ?        I      0:00  \_ [kworker/u32:24-btrfs-endio]
+  14615 ?        I      0:00  \_ [kworker/u32:25-events_unbound]
+  14616 ?        I      0:00  \_ [kworker/u32:26-btrfs-endio]
+  14617 ?        I      0:00  \_ [kworker/u32:27-events_unbound]
+  14618 ?        I      0:00  \_ [kworker/u32:28-events_unbound]
+  14619 ?        I      0:00  \_ [kworker/u32:29-events_unbound]
+  14620 ?        I      0:00  \_ [kworker/u32:30-events_unbound]
+  14621 ?        I      0:00  \_ [kworker/u32:31-events_unbound]
+  14622 ?        I      0:00  \_ [kworker/u32:32-events_unbound]
+  14623 ?        I      0:00  \_ [kworker/u32:33-btrfs-endio]
+  14624 ?        I      0:00  \_ [kworker/u32:34-nvme-wq]
+  14625 ?        I      0:00  \_ [kworker/u32:35-events_unbound]
+  14626 ?        I      0:00  \_ [kworker/u32:36-btrfs-endio]
+  14627 ?        I      0:00  \_ [kworker/u32:37-events_unbound]
+  14628 ?        I      0:00  \_ [kworker/u32:38-events_power_efficient]
+  14629 ?        I      0:00  \_ [kworker/u32:39-btrfs-endio]
+  14630 ?        I      0:00  \_ [kworker/u32:40-btrfs-endio]
+  14631 ?        I      0:00  \_ [kworker/u32:41-events_unbound]
+  14632 ?        I      0:00  \_ [kworker/u32:42-btrfs-endio]
+  14633 ?        I      0:00  \_ [kworker/u32:43-events_unbound]
+  14634 ?        I      0:00  \_ [kworker/u32:44-events_unbound]
+  14635 ?        I      0:00  \_ [kworker/u32:45]
+  14636 ?        I      0:00  \_ [kworker/u32:46]
+  14637 ?        S      0:00  \_ [irq/68-mmc0]
+  14638 ?        I<     0:00  \_ [kworker/u33:2-rtw_tx_wq]
+  14687 ?        I      0:00  \_ [kworker/4:1-events]
+  14699 ?        I      0:00  \_ [kworker/0:0-events]
+  14732 ?        S      0:00  \_ [kvm-nx-lpage-re]
+  14741 ?        S      0:00  \_ [kvm-pit/14727]
+  14990 ?        I      0:00  \_ [kworker/2:2-events]
+      1 ?        Ss     0:04 /usr/lib/systemd/systemd splash --switched-root --system --deserialize 30
+    711 ?        Ss     0:03 /usr/lib/systemd/systemd-journald
+    724 ?        Ss     0:00 /usr/lib/systemd/systemd-udevd
+    852 ?        Ss     0:01 /usr/lib/systemd/systemd-resolved
+    856 ?        Ssl    0:00 /usr/lib/systemd/systemd-timesyncd
+    874 ?        Ss     0:00 /usr/lib/bluetooth/bluetoothd
+    875 ?        Ss     0:08 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+    876 ?        Ss     0:00 /usr/bin/python /usr/bin/ds-inhibit
+    877 ?        Ss     0:00 python3 /usr/bin/gpu-trace --daemon
+    881 ?        Ss     0:36 /usr/bin/python -u /usr/share/jupiter-fan-control/fancontrol.py --run
+    883 ?        Ss     0:00 socat TCP4-LISTEN:8081,fork TCP4:127.0.0.1:8080
+    893 ?        Ss     0:00 /usr/lib/systemd/systemd-logind
+    894 ?        Ss     0:08 /usr/lib/vpower
+    906 ?        Ssl    0:08 /usr/bin/NetworkManager --no-daemon
+    961 ?        Ss     0:00 /usr/lib/iwd/iwd
+   1055 ?        Ss     0:01 /usr/lib/systemd/systemd --user
+   1059 ?        S      0:00  \_ (sd-pam)
+   1066 ?        Ssl    0:00  \_ /usr/bin/gamemoded
+   1069 ?        Ss     0:02  \_ /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+   1213 ?        S<Lsl   5:56  \_ /usr/bin/pipewire
+   1214 ?        S<sl   0:03  \_ /usr/bin/wireplumber
+   1648 ?        Ssl    0:00  \_ /usr/lib/xdg-document-portal
+   1660 ?        Ss     0:00  |   \_ fusermount -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+   1652 ?        Ssl    0:00  \_ /usr/lib/xdg-permission-store
+   1712 ?        SLsl   5:24  \_ /usr/bin/pipewire-pulse
+   2686 ?        Ssl    0:00  \_ /usr/lib/dconf-service
+   6570 ?        Ssl    0:00  \_ /usr/lib/xdg-desktop-portal
+   6593 ?        Ssl    0:00  \_ /usr/lib/xdg-desktop-portal-kde
+   6600 ?        SNsl   0:01  \_ /usr/lib/baloo_file
+   6619 ?        Ssl    0:01  \_ /usr/bin/ksmserver
+   6621 ?        Ssl    0:04  \_ /usr/bin/kded5
+   6622 ?        Ssl    6:37  \_ /usr/bin/kwin_x11 --replace
+   6668 ?        Ssl    0:45  \_ /usr/bin/plasmashell --no-respawn
+   7811 ?        S      0:00  |   \_ bwrap --args 41 syncthing-gtk
+   7831 ?        S      0:00  |   |   \_ bwrap --args 41 syncthing-gtk
+   7832 ?        Sl     0:15  |   |       \_ /usr/bin/python3 /app/bin/syncthing-gtk
+   7909 ?        Sl     0:00  |   |           \_ /app/bin/syncthing -no-browser
+   7917 ?        SNl    0:46  |   |           |   \_ /app/bin/syncthing -no-browser
+   7953 ?        Zs     0:00  |   |           \_ [xdg-open] <defunct>
+  13834 ?        Sl     1:15  |   \_ /home/deck/Downloads/genymotion/genymotion
+  15042 ?        R      0:00  |   |   \_ /usr/bin/ps afx
+  14131 ?        Sl     0:03  |   \_ /usr/bin/dolphin
+   6669 ?        Ssl    0:00  \_ /usr/bin/kglobalaccel5
+   6694 ?        Ssl    0:00  \_ /usr/lib/kactivitymanagerd
+   6695 ?        Ssl    0:00  \_ /usr/bin/gmenudbusmenuproxy
+   6696 ?        Ssl    0:00  \_ /usr/lib/polkit-kde-authentication-agent-1
+   6697 ?        Ssl    0:01  \_ /usr/lib/org_kde_powerdevil
+   6698 ?        Ssl    0:03  \_ /usr/bin/xembedsniproxy
+   6784 ?        Ssl    0:00  \_ /usr/lib/kf5/kscreen_backend_launcher
+   6811 ?        Ssl    0:01  \_ /usr/lib/kdeconnectd
+   6817 ?        Ssl    0:00  \_ /usr/lib/geoclue-2.0/demos/agent
+   6818 ?        Ssl    0:01  \_ /usr/bin/ibus-daemon --panel=/usr/lib/kimpanel-ibus-panel
+   6861 ?        Sl     0:00  |   \_ /usr/lib/ibus/ibus-dconf
+   6865 ?        Sl     0:01  |   \_ /usr/lib/ibus/ibus-extension-gtk3
+   6944 ?        Sl     0:00  |   \_ /usr/lib/ibus/ibus-engine-simple
+   6820 ?        Ssl    0:00  \_ /usr/bin/kaccess
+   6823 ?        Ssl    0:02  \_ /usr/lib/DiscoverNotifier
+   6824 ?        Ss     0:00  \_ bash /home/deck/.local/share/Steam/steam.sh -steamdeck -silent
+   7093 ?        S<l    9:15  |   \_ /home/deck/.local/share/Steam/ubuntu12_32/steam -steamdeck -silent
+   7127 ?        Ssl    1:13  |       \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper -lang=ru_RU -cachedir=/home/deck/.local/share/Steam/config/htmlcache -steampid=7093 -buildid=1685488080 -steamid=0 -logdir=/home/deck/.local/share/Steam/logs -steamdeck -steamuniverse=Public -realm=Global -clientui=/home/deck/.local/share/Steam/clientui --enable-media-stream --enable-smooth-scrolling --use-angle=gl --use-cmd-decoder=passthrough --no-sandbox --password-store=basic --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --disable-quick-menu --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging
+   7170 ?        S      0:00  |           \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=zygote --no-zygote-sandbox --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=en_US.UTF-8
+   7182 ?        Sl     0:41  |           |   \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=gpu-process --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --no-sandbox --use-cmd-decoder=passthrough --use-angle=gl --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=en_US.UTF-8 --gpu-preferences=MAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --shared-files
+   7171 ?        S      0:00  |           \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=zygote --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=en_US.UTF-8
+   7287 ?        Sl     2:23  |           |   \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=renderer --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --shared-files=v8_snapshot_data:100
+   7397 ?        Sl     0:00  |           |   \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=renderer --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --shared-files=v8_snapshot_data:100
+   7410 ?        Sl     0:00  |           |   \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=renderer --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=7 --shared-files=v8_snapshot_data:100
+   7445 ?        S<l    0:03  |           |   \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=renderer --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --disable-blink-features=Badging --lang=en-US --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --shared-files=v8_snapshot_data:100
+   7204 ?        Sl     0:00  |           \_ /home/deck/.local/share/Steam/ubuntu12_64/steamwebhelper --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=3985749180768331321,12771422754128849313,131072 --enable-features=CastMediaRouteProvider --disable-features=SameSiteByDefaultCookies --lang=en-US --service-sandbox-type=network --no-sandbox --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=en_US.UTF-8 --log-file=/home/deck/.local/share/Steam/logs/cef_log.txt --shared-files=v8_snapshot_data:100
+   6864 ?        Sl     0:00  \_ /usr/lib/kimpanel-ibus-panel
+   6871 ?        Sl     0:00  \_ /usr/lib/ibus/ibus-portal
+   6907 ?        Ssl    0:00  \_ /usr/lib/at-spi-bus-launcher
+   6920 ?        S      0:00  |   \_ /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+   6928 ?        Sl     0:00  \_ /usr/lib/at-spi2-registryd --use-gnome-session
+   7815 ?        Ssl    0:00  \_ /usr/lib/flatpak-session-helper
+   7819 ?        Ss     0:00  \_ server --sh -n /run/user/1000/.flatpak-helper/pkcs11-flatpak-7815 --provider p11-kit-trust.so pkcs11:model=p11-kit-trust?write-protected=yes
+   7827 ?        S      0:00  \_ bwrap --args 41 xdg-dbus-proxy --args=43
+   7828 ?        Sl     0:00  |   \_ xdg-dbus-proxy --args=43
+   8474 ?        Ssl    0:14  \_ adb -L tcp:5037 fork-server server --reply-fd 6
+   9781 ?        Ssl    0:00  \_ /usr/lib/kio-fuse -f
+   9845 ?        Sl     0:04  \_ /usr/lib/kf5/kio_http_cache_cleaner
+   9848 ?        Sl     0:00  \_ /usr/lib/kf5/kiod5
+  14705 ?        Sl     0:09  \_ /home/deck/Downloads/genymotion/player --vm-name 11cb402b-60cc-4861-8966-ee5f98855ee9 --resume
+  14896 ?        Sl     0:00  |   \_ /home/deck/Downloads/genymotion/tools/adb -s 127.0.0.1:6555 shell
+  14900 ?        S      0:00  |   \_ /home/deck/Downloads/genymotion/tools/adb -s 127.0.0.1:6555 logcat -v time
+  14727 ?        Sl     1:58  \_ /home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64 --device ac97,audiodev=snd0 -accel kvm -audiodev pa,id=snd0 -device virtio-rng-pci -drive file=/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/system.qcow2,format=qcow2,if=virtio -drive file=/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/data.qcow2,format=qcow2,if=virtio -drive format=vvfat,label=shared,file=fat:ro:/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/shared,if=virtio -m 8192M -nic user,id=net0,model=virtio-net-pci,net=10.0.2.0/24,hostfwd=tcp::6555-:5555,hostfwd=tcp::6379-:6379,hostfwd=tcp::22468-:22468,hostfwd=tcp::24297-:24297,hostfwd=tcp::24296-:24296,hostfwd=tcp::24800-:24800,hostfwd=tcp::24810-:24810,hostfwd=tcp::25000-:25000 -nic user,id=net1,model=virtio-net-pci,net=10.0.3.0/24 -nodefaults -nographic -object iothread,id=disk-iothread -qmp tcp:localhost:23555,server,nowait -smp 6 -vga std
+  15018 ?        Sl     0:00  \_ /usr/lib/kf5/kioslave5 /usr/lib/qt/plugins/kf5/kio/thumbnail.so thumbnail  local:/run/user/1000/dolphinvWQxhH.12.slave-socket
+   1109 ?        Ssl    0:04 /usr/lib/polkit-1/polkitd --no-debug
+   1215 ?        SNsl   0:00 /usr/lib/rtkit-daemon
+   1649 ?        Ssl    0:02 /usr/lib/udisks2/udisksd
+   2616 ?        Ssl    0:00 /usr/lib/upowerd
+   3153 ?        Ssl    0:00 /usr/lib/accounts-daemon
+   3407 ?        Ssl    0:01 /usr/lib/fwupd/fwupd
+   6518 ?        Ssl    0:00 /usr/bin/sddm
+   6520 ?        S      0:00  \_ /usr/lib/sddm/sddm-helper --socket /tmp/sddm-auth9e6b8f87-1b73-4ba5-bf42-e0b0cf6213d6 --id 1 --start /usr/bin/startplasma-steamos-oneshot --user deck --autologin --display-server /usr/bin/X -nolisten tcp -background none -seat seat0 -noreset -keeptty -novtswitch -verbose 3
+   6530 tty1     Ss+    0:00      \_ /usr/lib/sddm/sddm-helper-start-x11user /usr/bin/X -nolisten tcp -background none -seat seat0 -noreset -keeptty -novtswitch -verbose 3 /usr/share/sddm/scripts/Xsession "/usr/bin/startplasma-steamos-oneshot"
+   6531 tty1     Sl+    7:24          \_ /usr/lib/Xorg -nolisten tcp -background none -seat seat0 -noreset -keeptty -novtswitch -verbose 3 -auth /run/user/1000/17cd3a05-e4ca-4143-ac79-22a08b3dbd21 -displayfd 12 vt1
+   6542 tty1     Sl+    0:00          \_ /usr/bin/startplasma-x11
+   6528 ?        Sl     0:00 /usr/bin/kwalletd5 --pam-login 13 14

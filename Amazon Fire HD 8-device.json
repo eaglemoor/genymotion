@@ -1,0 +1,76 @@
+{
+    "configuration": {
+        "fullscreen": false,
+        "gl_es_api_level": "3.1",
+        "sdcard_inserted": false,
+        "virtual_keyboard": false
+    },
+    "hardware_profile": {
+        "cpu_count": 6,
+        "data_disk_size": 16384,
+        "device_properties": {
+            "build_display_id": "",
+            "build_fingerprint": "",
+            "build_tags": "",
+            "build_type": "",
+            "product_board": "",
+            "product_brand": "Amazon",
+            "product_device": "",
+            "product_manufacturer": "",
+            "product_model": "Fire HD 8",
+            "product_name": "",
+            "serialno": "",
+            "vm_heap_size": 512
+        },
+        "display_settings": {
+            "display_mode": "REGULAR",
+            "displays": [
+                {
+                    "bottom_corner_radius": 0,
+                    "content_padding": 0,
+                    "density": 213,
+                    "height": 800,
+                    "physical_size": 8,
+                    "top_corner_radius": 0,
+                    "width": 1280
+                }
+            ],
+            "hw_navigation_keys": false
+        },
+        "form_factor": "TABLET",
+        "ram_size": 8192,
+        "sd_card_size": 0,
+        "sharer_email": "",
+        "skin": "",
+        "source": "VENDOR",
+        "uuid": "45f37afb-0a08-4775-8358-09d7ccc15adb",
+        "version": "1.0.0"
+    },
+    "os_image": {
+        "arch": "x86",
+        "build_date": "2022-08-30T00:00:00",
+        "image_hash": "43679b55c79a444d5fdb20434876683e47b9be33",
+        "image_size_bytes": 432363520,
+        "image_uri": "{{VENDOR}}/dists/9.0/ova/genymotion_vbox86p_9.0_220830_120934.ova",
+        "image_version": "3.0.0",
+        "name": "Android 9.0 (Pie)",
+        "os_version": {
+            "build_date": "",
+            "code_name": "",
+            "name": "",
+            "os_type": "",
+            "os_version": "9.0.0",
+            "sdk_version": 28,
+            "uuid": ""
+        },
+        "source": "VENDOR",
+        "supported_form_factors": [
+            "TABLET",
+            "PHONE"
+        ],
+        "uuid": "eafd88bf-6255-4d34-b57f-ab1d23b2747b",
+        "version": "1.1.0"
+    },
+    "uuid": "11cb402b-60cc-4861-8966-ee5f98855ee9",
+    "virtualizer": "QEMU"
+}

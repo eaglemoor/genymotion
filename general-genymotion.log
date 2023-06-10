@@ -1,0 +1,1117 @@
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [critical] Migrating settings since version is 0 but expect version 1
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/settings.json" "No such file or directory"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] No proxy set
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] Host date and time: "10 Jun 2023 10:11:28 +0300"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] table stats doesn't exist, creating it and removing stats key in configuration file
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [LaunchpadApp] Started with ("./genymotion")
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GET "https://cloud.genymotion.com/patterns/hardware-profiles?desktop_version=3.4.0"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GET "https://cloud.genymotion.com/patterns/os-images?desktop_version=3.4.0&arch=x86&arch=x86_64"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GL_VENDOR: "AMD"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] GET "https://cloud.genymotion.com/patterns/hardware-profiles?desktop_version=3.4.0"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Loading "virtualbox" plugin
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Constructing engine
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Path: ""
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Initializing engine
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [warning] [VMTools] Could not find VBoxManage
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [critical] [VMTools] Unable to initialize engine from "virtualbox"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Constructing engine
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Initializing engine
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] Return code: 0
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:11:28+03:00 [Genymotion:28977] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Invalid proxy type ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Invalid proxy type ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] Refreshing Hub session
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Failed to log on Hub ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] HTTP response is an error
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP status code: 401, from cache: 0
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP headers:
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP content (first 127 bytes): 
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Downloading list of Genymotion HwProfile failed: "No credentials provided."
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Unable to retrieve hwprofiles.
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Unable to retrieve hwprofiles.
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] Refreshing Hub session
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Failed to log on Hub ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] HTTP response is an error
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP status code: 401, from cache: 0
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP headers:
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP content (first 127 bytes): 
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Downloading list of Genymotion os images failed: "No credentials provided."
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Unable to retrieve osimages.
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] Refreshing Hub session
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Failed to log on Hub ""
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] HTTP response is an error
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP status code: 401, from cache: 0
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP headers:
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [debug] HTTP content (first 127 bytes): 
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] Downloading list of Genymotion HwProfile failed: "No credentials provided."
+2023-06-10T10:11:29+03:00 [Genymotion:28977] [warning] [tokenError] AbstractAuthService::Error::EmptyCredential ""
+2023-06-10T10:14:38+03:00 [Genymotion:28977] [debug] No proxy set
+2023-06-10T10:14:38+03:00 [Genymotion:28977] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T10:14:38+03:00 [Genymotion:28977] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T10:14:39+03:00 [Genymotion:28977] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T10:14:39+03:00 [Genymotion:28977] [debug] GET "https://cloud.genymotion.com/patterns/hardware-profiles?desktop_version=3.4.0"
+2023-06-10T10:14:39+03:00 [Genymotion:28977] [debug] GET "https://cloud.genymotion.com/patterns/os-images?desktop_version=3.4.0&arch=x86&arch=x86_64"
+2023-06-10T10:14:39+03:00 [Genymotion:28977] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T10:14:39+03:00 [Genymotion:28977] [debug] POST QUrl("https://cloud.genymotion.com/stats/report/genymotion/")
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [warning] HTTP response is an error
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] HTTP headers:
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Date: Sat, 10 Jun 2023 07:14:40 GMT
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Transfer-Encoding: chunked
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Connection: keep-alive
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - vary: Cookie
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - x-frame-options: DENY
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - set-cookie: genymotion_sessionid=93ae7e81524ee1627de50722141e1a9e; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 07:14:40 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Server: cloudflare
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - CF-RAY: 7d4fd1984be80520-OTP
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] - Content-Encoding: gzip
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T10:14:40+03:00 [Genymotion:28977] [debug] Stats sent
+2023-06-10T10:15:07+03:00 [Genymotion:28977] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T10:16:05+03:00 [Genymotion:28977] [debug] 14818 MBytes of RAM.
+2023-06-10T10:16:32+03:00 [Genymotion:28977] [debug] Creating device from hardware profile "Google Pixel"
+2023-06-10T10:16:32+03:00 [Genymotion:28977] [debug] onDeviceWorkerChanged "{72d6ad8f-2fc3-499f-9ea5-8c8948fb9cae}" 0
+2023-06-10T10:16:32+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:32+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:32+03:00 [Genymotion:28977] [critical] Invalid version "-1.0.0"
+2023-06-10T10:16:33+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:33+03:00 [Genymotion:28977] [debug] Starting download of "https://dl.genymotion.com/dists/12.0/ova/genymotion_vbox86p_12.0_230123_112743.ova"
+2023-06-10T10:16:49+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:49+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:49+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:49+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Google Pixel"
+2023-06-10T10:16:53+03:00 [Genymotion:28977] [debug] Stopping current download
+2023-06-10T10:16:53+03:00 [Genymotion:28977] [warning] Download canceled
+2023-06-10T10:16:53+03:00 [Genymotion:28977] [warning] Download failed. error: 1
+2023-06-10T10:16:53+03:00 [Genymotion:28977] [debug] onDeviceWorkerChanged "{72d6ad8f-2fc3-499f-9ea5-8c8948fb9cae}" -1
+2023-06-10T10:17:12+03:00 [Genymotion:28977] [debug] 14818 MBytes of RAM.
+2023-06-10T10:17:49+03:00 [Genymotion:28977] [debug] 14818 MBytes of RAM.
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [debug] Creating device from hardware profile "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [debug] onDeviceWorkerChanged "{b7cfb2ac-4236-416f-bdc4-1fa6adfbed91}" 0
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [critical] Invalid version "-1.0.0"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [warning] HwProfile is not valid for device "Amazon Fire HD 8"
+2023-06-10T10:19:16+03:00 [Genymotion:28977] [debug] Starting download of "https://dl.genymotion.com/dists/9.0/ova/genymotion_vbox86p_9.0_220830_120934.ova"
+2023-06-10T10:19:38+03:00 [Genymotion:28977] [debug] Status code: 200
+2023-06-10T10:19:38+03:00 [Genymotion:28977] [debug] File length: 432363520
+2023-06-10T10:19:38+03:00 [Genymotion:28977] [debug] Download successful. status: 200
+2023-06-10T10:19:39+03:00 [Genymotion:28977] [debug] Creating device "Amazon Fire HD 8" from profile "Amazon Fire HD 8"
+2023-06-10T10:19:39+03:00 [Genymotion:28977] [debug] [VMTools] Call: ("convert", "-O", "qcow2", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/system.vmdk", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/system.qcow2")
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] [VMTools] Return code: 0
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] [VMTools] Call: ("convert", "-O", "qcow2", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/data.vmdk", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/data.qcow2")
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] [VMTools] Return code: 0
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] [VMTools] Call: ("create", "-f", "qcow2", "-b", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/system.qcow2", "-F", "qcow2", "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/system.qcow2")
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] [VMTools] Return code: 0
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/settings.json" "No such file or directory"
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] Migrating settings since version is 0 but expect version 1
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/settings.json" "No such file or directory"
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] Virtual device created successfully
+2023-06-10T10:19:45+03:00 [Genymotion:28977] [debug] onDeviceWorkerChanged "{b7cfb2ac-4236-416f-bdc4-1fa6adfbed91}" -1
+2023-06-10T10:22:06+03:00 [Genymotion:28977] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T10:22:06+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:22:06+03:00 [Genymotion:28977] [debug] Device is up to date
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Constructing engine
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Initializing engine
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] Return code: 0
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:22:06+03:00 [Genymotion Player:29254] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:22:06+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:22:06+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:22:23+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:22:23+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T10:29:18+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:29:18+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Constructing engine
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Initializing engine
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] Return code: 0
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:29:18+03:00 [Genymotion Player:29887] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:29:18+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:29:18+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:29:31+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:29:31+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T10:37:27+03:00 [Genymotion:28977] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:37:27+03:00 [Genymotion:28977] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T10:39:43+03:00 [Genymotion:28977] [debug] ==== STOPPING GENYMOTION ====
+2023-06-10T10:39:43+03:00 [Genymotion:28977] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] No proxy set
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] Host date and time: "10 Jun 2023 10:51:36 +0300"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] GL_VENDOR: "AMD"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T10:51:36+03:00 [Genymotion:31143] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Constructing engine
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Initializing engine
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] Return code: 0
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:51:37+03:00 [Genymotion:31143] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [warning] HTTP response is an error
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] HTTP headers:
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Date: Sat, 10 Jun 2023 07:51:39 GMT
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Transfer-Encoding: chunked
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Connection: keep-alive
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - vary: Cookie
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - x-frame-options: DENY
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - set-cookie: genymotion_sessionid=7db0284c8bbc9f545d1c6f22484b21f6; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 07:51:39 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Server: cloudflare
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - CF-RAY: 7d5007c3890f989d-OTP
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] - Content-Encoding: gzip
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T10:51:38+03:00 [Genymotion:31143] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T10:51:39+03:00 [Genymotion:31143] [debug] Genymotion is up-to-date
+2023-06-10T10:51:43+03:00 [Genymotion:31143] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T10:51:43+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:51:43+03:00 [Genymotion:31143] [debug] Device is up to date
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Constructing engine
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Initializing engine
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] Return code: 0
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:51:43+03:00 [Genymotion Player:31193] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:51:43+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:51:43+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:51:56+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:51:56+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T10:53:24+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:53:24+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Constructing engine
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Initializing engine
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Call: ("--version")
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] Return code: 0
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T10:53:25+03:00 [Genymotion Player:31538] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T10:53:25+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:53:25+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T10:53:40+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:53:40+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T10:59:04+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T10:59:04+03:00 [Genymotion:31143] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T11:00:36+03:00 [Genymotion:31143] [debug] 14818 MBytes of RAM.
+2023-06-10T11:02:02+03:00 [Genymotion:31143] [debug] 14818 MBytes of RAM.
+2023-06-10T11:02:56+03:00 [Genymotion:31143] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:425:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T11:02:56+03:00 [Genymotion:31143] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:435:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [debug] Creating device from hardware profile "Google Pixel 2"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [debug] onDeviceWorkerChanged "{59dff7a0-af9c-4ff3-8bf7-1e6716410ac7}" 1
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [warning] HwProfile is not valid for device "Google Pixel 2"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [warning] HwProfile is not valid for device "Google Pixel 2"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [critical] Invalid version "-1.0.0"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [warning] HwProfile is not valid for device "Google Pixel 2"
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [debug] Template already downloaded
+2023-06-10T11:03:22+03:00 [Genymotion:31143] [debug] Creating device "Google Pixel 2" from profile "Google Pixel 2"
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [debug] [VMTools] Call: ("create", "-f", "qcow2", "-b", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/system.qcow2", "-F", "qcow2", "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/system.qcow2")
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [debug] [VMTools] Return code: 0
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/settings.json" "No such file or directory"
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [debug] Migrating settings since version is 0 but expect version 1
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/settings.json" "No such file or directory"
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [debug] Virtual device created successfully
+2023-06-10T11:03:23+03:00 [Genymotion:31143] [debug] onDeviceWorkerChanged "{59dff7a0-af9c-4ff3-8bf7-1e6716410ac7}" -1
+2023-06-10T11:03:32+03:00 [Genymotion:31143] [debug] Starting device "38cf629e-df29-4352-889d-9eb0648e2a73" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T11:03:32+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:03:32+03:00 [Genymotion:31143] [debug] Device is up to date
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Constructing engine
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Initializing engine
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Call: ("--version")
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] Return code: 0
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T11:03:32+03:00 [Genymotion Player:32136] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T11:03:32+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:03:32+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:03:46+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:03:46+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T11:05:09+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:05:09+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Constructing engine
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Initializing engine
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Call: ("--version")
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] Return code: 0
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T11:05:09+03:00 [Genymotion Player:32353] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T11:05:09+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:05:09+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:05:23+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:05:23+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T11:07:08+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:07:08+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T11:08:26+03:00 [Genymotion:31143] [debug] Starting device "38cf629e-df29-4352-889d-9eb0648e2a73" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T11:08:26+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:08:26+03:00 [Genymotion:31143] [debug] Device is up to date
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Constructing engine
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Initializing engine
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Call: ("--version")
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] Return code: 0
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T11:08:26+03:00 [Genymotion Player:32610] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T11:08:26+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:08:26+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:08:40+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:08:40+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T11:12:15+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:12:15+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Constructing engine
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Initializing engine
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Call: ("--version")
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] Return code: 0
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T11:12:16+03:00 [Genymotion Player:33045] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T11:12:16+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:12:16+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T11:12:39+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:12:39+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T11:55:13+03:00 [Genymotion:31143] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T11:55:13+03:00 [Genymotion:31143] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T12:25:53+03:00 [Genymotion:31143] [warning] The X11 connection broke (error 1). Did the X11 server die?
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] No proxy set
+2023-06-10T13:25:54+03:00 [Genymotion:8297] [debug] Host date and time: "10 Jun 2023 13:25:54 +0300"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] GL_VENDOR: "AMD"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Constructing engine
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Initializing engine
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Call: ("--version")
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] Return code: 0
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T13:25:55+03:00 [Genymotion:8297] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [warning] HTTP response is an error
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] HTTP headers:
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Date: Sat, 10 Jun 2023 10:25:57 GMT
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Transfer-Encoding: chunked
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Connection: keep-alive
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - vary: Cookie
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - x-frame-options: DENY
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - set-cookie: genymotion_sessionid=0631d2a039dc8f7c6ea082ee95537ab9; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 10:25:57 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Server: cloudflare
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - CF-RAY: 7d50e9caaa7198ae-OTP
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] - Content-Encoding: gzip
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T13:25:56+03:00 [Genymotion:8297] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T13:25:57+03:00 [Genymotion:8297] [debug] Genymotion is up-to-date
+2023-06-10T13:26:00+03:00 [Genymotion:8297] [debug] Starting device "38cf629e-df29-4352-889d-9eb0648e2a73" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T13:26:00+03:00 [Genymotion:8297] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T13:26:00+03:00 [Genymotion:8297] [debug] Device is up to date
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Constructing engine
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Initializing engine
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Call: ("--version")
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] Return code: 0
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T13:26:01+03:00 [Genymotion Player:8338] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T13:26:01+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T13:26:01+03:00 [Genymotion:8297] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T13:26:20+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T13:26:20+03:00 [Genymotion:8297] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T13:28:36+03:00 [Genymotion:8297] [debug] Stopping device "38cf629e-df29-4352-889d-9eb0648e2a73"
+2023-06-10T13:28:36+03:00 [Genymotion:8297] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::STOPPING
+2023-06-10T13:28:46+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T13:28:46+03:00 [Genymotion:8297] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T14:18:32+03:00 [Genymotion:8297] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T14:18:32+03:00 [Genymotion:8297] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T14:18:32+03:00 [Genymotion:8297] [debug] Device is up to date
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Constructing engine
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Initializing engine
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Call: ("--version")
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] Return code: 0
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T14:18:32+03:00 [Genymotion Player:8813] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T14:18:32+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T14:18:32+03:00 [Genymotion:8297] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T14:18:46+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T14:18:46+03:00 [Genymotion:8297] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T14:19:27+03:00 [Genymotion:8297] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T14:19:27+03:00 [Genymotion:8297] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] Generate all logs
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Retrieving virtual devices list
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Creating temporary folder: "/tmp/genymotion-logs-tmp"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] walking through  "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/logcat.txt" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-logcat.txt"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/shared/config/device.json" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-device.json"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/genymotion-player.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-genymotion-player.log"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/open_gapps_debug_logs.tar.gz" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-open_gapps_debug_logs.tar.gz"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/qemu.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-qemu.log"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] walking through  "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/logcat.txt" to "/tmp/genymotion-logs-tmp/Google Pixel 2-logcat.txt"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/shared/config/device.json" to "/tmp/genymotion-logs-tmp/Google Pixel 2-device.json"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/genymotion-player.log" to "/tmp/genymotion-logs-tmp/Google Pixel 2-genymotion-player.log"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/open_gapps_debug_logs.tar.gz" to "/tmp/genymotion-logs-tmp/Google Pixel 2-open_gapps_debug_logs.tar.gz"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2/qemu.log" to "/tmp/genymotion-logs-tmp/Google Pixel 2-qemu.log"
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "/home/deck/Downloads/genymotion/tools/glewinfo" with args ()
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "lsmod" with args ()
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "lspci" with args ()
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "ip" with args ("rule")
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "ip" with args ("route")
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "free" with args ()
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "ps" with args ("afx")
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "df" with args ("-kh")
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "dmesg" with args ()
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Running "cat" with args ("/proc/cpuinfo")
+2023-06-10T14:57:24+03:00 [Genymotion:8297] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/genymotion.log" to "/tmp/genymotion-logs-tmp/general-genymotion.log"
+2023-06-10T14:57:25+03:00 [Genymotion:8297] [debug] [LogCollector] Removing temporary folder: "/tmp/genymotion-logs-tmp"
+2023-06-10T14:58:04+03:00 [Genymotion:8297] [debug] ==== STOPPING GENYMOTION ====
+2023-06-10T14:58:04+03:00 [Genymotion:8297] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] No proxy set
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] Host date and time: "10 Jun 2023 15:02:06 +0300"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] GL_VENDOR: "AMD"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Constructing engine
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Initializing engine
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Call: ("--version")
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] Return code: 0
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T15:02:06+03:00 [Genymotion:9328] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T15:02:07+03:00 [Genymotion:9328] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T15:02:07+03:00 [Genymotion:9328] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [warning] HTTP response is an error
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] HTTP headers:
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Date: Sat, 10 Jun 2023 12:02:09 GMT
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Transfer-Encoding: chunked
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Connection: keep-alive
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - vary: Cookie
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - x-frame-options: DENY
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - set-cookie: genymotion_sessionid=b61133c89d03803fc372c130ddb14c99; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 12:02:09 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Server: cloudflare
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - CF-RAY: 7d5176b89b1029c2-OTP
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] - Content-Encoding: gzip
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T15:02:08+03:00 [Genymotion:9328] [debug] Genymotion is up-to-date
+2023-06-10T15:02:47+03:00 [Genymotion:9328] [debug] [ComputeCacheSize] 1218592185 bytes found
+2023-06-10T15:02:47+03:00 [Genymotion:9328] [warning] SDK ADB not found in ("/platform-tools", "/tools", "")
+2023-06-10T15:02:47+03:00 [Genymotion:9328] [warning] SDK AAPT not found in ("/platform-tools", "/tools", "")
+2023-06-10T15:02:47+03:00 [Genymotion:9328] [warning] Invalid proxy type ""
+2023-06-10T15:02:47+03:00 [Genymotion:9328] [warning] Invalid proxy type ""
+2023-06-10T15:03:04+03:00 [Genymotion:9328] [debug] No proxy set
+2023-06-10T15:03:46+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:03:47+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:03:48+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:03:49+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:03:50+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:03:50+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:05:18+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:05:18+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:05:19+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:05:19+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/TemplateTable.qml:22:5: Unable to assign [undefined] to QString
+2023-06-10T15:05:21+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:25+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:26+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:37+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:37+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:37+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:05:37+03:00 [Genymotion:9328] [qml.warning] TableViewSelection: index out of range
+2023-06-10T15:06:04+03:00 [Genymotion:9328] [debug] 14818 MBytes of RAM.
+2023-06-10T15:06:10+03:00 [Genymotion:9328] [debug] 14818 MBytes of RAM.
+2023-06-10T15:07:59+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:425:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T15:07:59+03:00 [Genymotion:9328] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:435:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [debug] Creating device from hardware profile "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [debug] onDeviceWorkerChanged "{e0d3e7c9-bd60-474e-a907-fcf35f7549c1}" 2
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [critical] Invalid version "-1.0.0"
+2023-06-10T15:08:15+03:00 [Genymotion:9328] [warning] HwProfile is not valid for device "Xiaomi Redmi Note 7"
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] Template already downloaded
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] Creating device "Xiaomi Redmi Note 7" from profile "Xiaomi Redmi Note 7"
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] [VMTools] Call: ("create", "-f", "qcow2", "-b", "/home/deck/.Genymobile/Genymotion/system-images/3.0.0/9.0.0/system.qcow2", "-F", "qcow2", "/home/deck/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7/system.qcow2")
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] [VMTools] Return code: 0
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7/settings.json" "No such file or directory"
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] Migrating settings since version is 0 but expect version 1
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7/settings.json" "No such file or directory"
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] Virtual device created successfully
+2023-06-10T15:08:16+03:00 [Genymotion:9328] [debug] onDeviceWorkerChanged "{e0d3e7c9-bd60-474e-a907-fcf35f7549c1}" -1
+2023-06-10T15:08:23+03:00 [Genymotion:9328] [debug] Starting device "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T15:08:23+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::BOOTING
+2023-06-10T15:08:23+03:00 [Genymotion:9328] [debug] Device is up to date
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a", "--resume")
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Constructing engine
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Initializing engine
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Call: ("--version")
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] Return code: 0
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T15:08:23+03:00 [Genymotion Player:9534] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T15:08:23+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:08:23+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::BOOTING
+2023-06-10T15:08:37+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:08:37+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::ON
+2023-06-10T15:09:44+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:09:44+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::OFF
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a", "--resume")
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Constructing engine
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Initializing engine
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Call: ("--version")
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] Return code: 0
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T15:09:45+03:00 [Genymotion Player:9783] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T15:09:45+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:09:45+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::BOOTING
+2023-06-10T15:10:09+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:10:09+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::ON
+2023-06-10T15:15:12+03:00 [Genymotion:9328] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T15:15:12+03:00 [Genymotion:9328] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::OFF
+2023-06-10T15:17:59+03:00 [Genymotion:9328] [debug] ==== STOPPING GENYMOTION ====
+2023-06-10T15:17:59+03:00 [Genymotion:9328] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] No proxy set
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] Host date and time: "10 Jun 2023 16:35:07 +0300"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] GL_VENDOR: "AMD"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Constructing engine
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Initializing engine
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Call: ("--version")
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] Return code: 0
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T16:35:07+03:00 [Genymotion:10513] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T16:35:08+03:00 [Genymotion:10513] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T16:35:08+03:00 [Genymotion:10513] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [warning] HTTP response is an error
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] HTTP headers:
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Date: Sat, 10 Jun 2023 13:35:10 GMT
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Transfer-Encoding: chunked
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Connection: keep-alive
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - vary: Cookie
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - x-frame-options: DENY
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - set-cookie: genymotion_sessionid=9e806010e48c930e36265ed6e2d4ca93; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 13:35:10 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Server: cloudflare
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - CF-RAY: 7d51fefa6e8629c2-OTP
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] - Content-Encoding: gzip
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T16:35:09+03:00 [Genymotion:10513] [debug] Genymotion is up-to-date
+2023-06-10T16:35:21+03:00 [Genymotion:10513] [debug] Starting device "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T16:35:21+03:00 [Genymotion:10513] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::BOOTING
+2023-06-10T16:35:21+03:00 [Genymotion:10513] [debug] Device is up to date
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a", "--resume")
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Constructing engine
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Initializing engine
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Call: ("--version")
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] Return code: 0
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T16:35:22+03:00 [Genymotion Player:10554] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T16:35:22+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T16:35:22+03:00 [Genymotion:10513] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::BOOTING
+2023-06-10T16:35:35+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T16:35:35+03:00 [Genymotion:10513] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::ON
+2023-06-10T16:37:30+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a")))
+2023-06-10T16:37:30+03:00 [Genymotion:10513] [info] setDeviceStatus "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" DeviceListModel::Status::OFF
+2023-06-10T16:37:37+03:00 [Genymotion:10513] [debug] Starting device "38cf629e-df29-4352-889d-9eb0648e2a73" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T16:37:37+03:00 [Genymotion:10513] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T16:37:37+03:00 [Genymotion:10513] [debug] Device is up to date
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "38cf629e-df29-4352-889d-9eb0648e2a73", "--resume")
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Constructing engine
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Initializing engine
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Call: ("--version")
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] Return code: 0
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T16:37:37+03:00 [Genymotion Player:10890] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T16:37:37+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T16:37:37+03:00 [Genymotion:10513] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::BOOTING
+2023-06-10T16:37:50+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T16:37:50+03:00 [Genymotion:10513] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::ON
+2023-06-10T16:40:44+03:00 [Genymotion:10513] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "38cf629e-df29-4352-889d-9eb0648e2a73")))
+2023-06-10T16:40:44+03:00 [Genymotion:10513] [info] setDeviceStatus "38cf629e-df29-4352-889d-9eb0648e2a73" DeviceListModel::Status::OFF
+2023-06-10T16:40:49+03:00 [Genymotion:10513] [debug] ==== STOPPING GENYMOTION ====
+2023-06-10T16:40:49+03:00 [Genymotion:10513] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] No proxy set
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] Host date and time: "10 Jun 2023 19:21:54 +0300"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] GL_VENDOR: "AMD"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Constructing engine
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Initializing engine
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:21:54+03:00 [Genymotion:11871] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [warning] HTTP response is an error
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] HTTP headers:
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Date: Sat, 10 Jun 2023 16:21:58 GMT
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Transfer-Encoding: chunked
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Connection: keep-alive
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - vary: Cookie
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - x-frame-options: DENY
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - set-cookie: genymotion_sessionid=745f13fcc54c37c223eab46f3b33892c; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 16:21:58 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Server: cloudflare
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - CF-RAY: 7d52f3504e4c053c-OTP
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] - Content-Encoding: gzip
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T19:21:56+03:00 [Genymotion:11871] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T19:21:57+03:00 [Genymotion:11871] [debug] Genymotion is up-to-date
+2023-06-10T19:21:58+03:00 [Genymotion:11871] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T19:21:58+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:21:58+03:00 [Genymotion:11871] [debug] Device is up to date
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] Constructing engine
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] Initializing engine
+2023-06-10T19:21:58+03:00 [Genymotion Player:11910] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:21:59+03:00 [Genymotion Player:11910] [debug] [VMTools] Return code: 0
+2023-06-10T19:21:59+03:00 [Genymotion Player:11910] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:21:59+03:00 [Genymotion Player:11910] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:21:59+03:00 [Genymotion Player:11910] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:21:59+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:21:59+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:22:11+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:22:11+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T19:23:16+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:23:16+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T19:24:28+03:00 [Genymotion:11871] [debug] 14818 MBytes of RAM.
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [debug] Creating device from hardware profile "Google Pixel 2"
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [debug] onDeviceWorkerChanged "{99dfe0cf-8c6f-4764-8220-499d73213a24}" 3
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [warning] HwProfile is not valid for device "Google Pixel 2_1"
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [warning] HwProfile is not valid for device "Google Pixel 2_1"
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [critical] Invalid version "-1.0.0"
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [warning] HwProfile is not valid for device "Google Pixel 2_1"
+2023-06-10T19:24:44+03:00 [Genymotion:11871] [debug] Starting download of "https://dl.genymotion.com/dists/12.1/ova/genymotion_vbox86p_12.1_230301_111512.ova"
+2023-06-10T19:25:02+03:00 [Genymotion:11871] [debug] Status code: 200
+2023-06-10T19:25:02+03:00 [Genymotion:11871] [debug] File length: 662804480
+2023-06-10T19:25:02+03:00 [Genymotion:11871] [debug] Download successful. status: 200
+2023-06-10T19:25:04+03:00 [Genymotion:11871] [debug] Creating device "Google Pixel 2_1" from profile "Google Pixel 2"
+2023-06-10T19:25:04+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("convert", "-O", "qcow2", "/home/deck/.Genymobile/Genymotion/system-images/3.0.2/12.1.0/system.vmdk", "/home/deck/.Genymobile/Genymotion/system-images/3.0.2/12.1.0/system.qcow2")
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("convert", "-O", "qcow2", "/home/deck/.Genymobile/Genymotion/system-images/3.0.2/12.1.0/data.vmdk", "/home/deck/.Genymobile/Genymotion/system-images/3.0.2/12.1.0/data.qcow2")
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("create", "-f", "qcow2", "-b", "/home/deck/.Genymobile/Genymotion/system-images/3.0.2/12.1.0/system.qcow2", "-F", "qcow2", "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/system.qcow2")
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/settings.json" "No such file or directory"
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] Migrating settings since version is 0 but expect version 1
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [warning] Failed to open "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/settings.json" "No such file or directory"
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] Virtual device created successfully
+2023-06-10T19:25:13+03:00 [Genymotion:11871] [debug] onDeviceWorkerChanged "{99dfe0cf-8c6f-4764-8220-499d73213a24}" -1
+2023-06-10T19:25:30+03:00 [Genymotion:11871] [debug] Starting device "59e7452e-866a-4ba0-a7c3-55a73eb07571" AbstractDeviceListController::DeviceUpdatePolicy::IGNORE_UPDATE
+2023-06-10T19:25:30+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::BOOTING
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "59e7452e-866a-4ba0-a7c3-55a73eb07571", "--no-update-check")
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Constructing engine
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Initializing engine
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] Return code: 0
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:25:30+03:00 [Genymotion Player:12255] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:25:30+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:25:30+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::BOOTING
+2023-06-10T19:25:49+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:25:49+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::ON
+2023-06-10T19:27:24+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:27:24+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::OFF
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "59e7452e-866a-4ba0-a7c3-55a73eb07571", "--no-update-check")
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Constructing engine
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Initializing engine
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] Return code: 0
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:27:24+03:00 [Genymotion Player:12552] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:27:24+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:27:24+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::BOOTING
+2023-06-10T19:27:47+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:27:47+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::ON
+2023-06-10T19:28:30+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:28:30+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::OFF
+2023-06-10T19:28:42+03:00 [Genymotion:11871] [debug] 14818 MBytes of RAM.
+2023-06-10T19:28:59+03:00 [Genymotion:11871] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:425:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T19:28:59+03:00 [Genymotion:11871] [warning] qrc:/Launchpad/Components/Edition/EditDisplayView.qml:435:29: QML IntField: Binding loop detected for property "text"
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] Edit device "59e7452e-866a-4ba0-a7c3-55a73eb07571"
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] onDeviceWorkerChanged "59e7452e-866a-4ba0-a7c3-55a73eb07571" 3
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] Device status "Off"
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("snapshot", "-l", "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/system.qcow2")
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] found snapshot "latest"
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("snapshot", "-d", "latest", "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/system.qcow2")
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Call: ("snapshot", "-d", "latest", "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1/data.qcow2")
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] [VMTools] Return code: 0
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] refreshDevice "59e7452e-866a-4ba0-a7c3-55a73eb07571" 3
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] updateDevice "59e7452e-866a-4ba0-a7c3-55a73eb07571" 3
+2023-06-10T19:29:04+03:00 [Genymotion:11871] [debug] onDeviceWorkerChanged "59e7452e-866a-4ba0-a7c3-55a73eb07571" 3
+2023-06-10T19:29:07+03:00 [Genymotion:11871] [debug] Starting device "59e7452e-866a-4ba0-a7c3-55a73eb07571" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T19:29:07+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::BOOTING
+2023-06-10T19:29:07+03:00 [Genymotion:11871] [debug] Device is up to date
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "59e7452e-866a-4ba0-a7c3-55a73eb07571", "--resume")
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] Constructing engine
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] Initializing engine
+2023-06-10T19:29:07+03:00 [Genymotion Player:12793] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:29:08+03:00 [Genymotion Player:12793] [debug] [VMTools] Return code: 0
+2023-06-10T19:29:08+03:00 [Genymotion Player:12793] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:29:08+03:00 [Genymotion Player:12793] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:29:08+03:00 [Genymotion Player:12793] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:29:08+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:29:08+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::BOOTING
+2023-06-10T19:29:24+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:29:24+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::ON
+2023-06-10T19:34:33+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "59e7452e-866a-4ba0-a7c3-55a73eb07571")))
+2023-06-10T19:34:33+03:00 [Genymotion:11871] [info] setDeviceStatus "59e7452e-866a-4ba0-a7c3-55a73eb07571" DeviceListModel::Status::OFF
+2023-06-10T19:36:07+03:00 [Genymotion:11871] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T19:36:07+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:36:07+03:00 [Genymotion:11871] [debug] Device is up to date
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Constructing engine
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Initializing engine
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] Return code: 0
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:36:07+03:00 [Genymotion Player:13320] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:36:07+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:36:07+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:36:23+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:36:23+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T19:41:23+03:00 [Genymotion:11871] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:41:23+03:00 [Genymotion:11871] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T19:41:24+03:00 [Genymotion:11871] [debug] ==== STOPPING GENYMOTION ====
+2023-06-10T19:41:24+03:00 [Genymotion:11871] [debug] Exit status: 0 Launchpad::ExitCode::SUCCESS
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] ==== STARTING GENYMOTION ====
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] Genymotion Version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] Architecture: "desktop=x86_64 cpu=x86_64 rosetta=0 osimages=x86,x86_64 osversion=3.4.8"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] "Local socket created at path: /tmp/907f397a1f5a71abaaa526042f58a1b0"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] No proxy set
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] Host date and time: "10 Jun 2023 19:44:13 +0300"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] [LaunchpadApp] Started with ("/home/deck/Downloads/genymotion/genymotion")
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] Trying to log in as "games@webspirit.pro"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] POST QUrl("https://cloud.genymotion.com/launchpad/login/")
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] GL_VENDOR: "AMD"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] GL_RENDERER: "AMD Custom GPU 0405 (vangogh, LLVM 14.0.6, DRM 3.45, 5.13.0-valve36-1-neptune)"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] GL_VERSION: "4.6 (Compatibility Profile) Mesa 22.2.0 (git-17e5312102)"
+2023-06-10T19:44:13+03:00 [Genymotion:13834] [debug] GL_SHADING_LANGUAGE_VERSION: "4.60"
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Constructing engine
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Initializing engine
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] Return code: 0
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:44:14+03:00 [Genymotion:13834] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] "User games@webspirit.pro logged on Hub"
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] POST QUrl("https://cloud.genymotion.com/licenses/activation/")
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [warning] HTTP response is an error
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] HTTP status code: 403, from cache: 0
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] HTTP headers:
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Date: Sat, 10 Jun 2023 16:44:17 GMT
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Content-Type: application/json;charset=utf-8
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Transfer-Encoding: chunked
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Connection: keep-alive
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - vary: Cookie
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - x-frame-options: DENY
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - x-xss-protection: 1; mode=block
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - set-cookie: genymotion_sessionid=2c0dd0b2372d479465644eb9bd38afc2; Domain=.genymotion.com; expires=Mon, 12-Jun-2023 16:44:17 GMT; httponly; Max-Age=172800; Path=/; secure
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - access-control-allow-methods: GET, POST, OPTIONS
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - access-control-allow-headers: accept, content-type, X-Requested-With, X-CSRFToken
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - referrer-policy: strict-origin-when-cross-origin
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - CF-Cache-Status: DYNAMIC
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Server: cloudflare
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - CF-RAY: 7d5313ff1c266283-OTP
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] - Content-Encoding: gzip
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] HTTP content (first 127 bytes): {"code": 1000, "desc": "Activation failed: license have never been registered"}
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [warning] [tokenError] AbstractAuthService::Error::NotRegistered "HTTP code 403: Activation failed: license have never been registered Error transferring https://cloud.genymotion.com/licenses/activation/ - server replied: Forbidden."
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [warning] License validity reaches the minimum acceptable value.
+2023-06-10T19:44:15+03:00 [Genymotion:13834] [debug] GET "https://cloud.genymotion.com/launchpad/last_version/linux/x64/"
+2023-06-10T19:44:16+03:00 [Genymotion:13834] [debug] Genymotion is up-to-date
+2023-06-10T19:45:08+03:00 [Genymotion:13834] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T19:45:08+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:45:08+03:00 [Genymotion:13834] [debug] Device is up to date
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Constructing engine
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Initializing engine
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Call: ("--version")
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] Return code: 0
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T19:45:08+03:00 [Genymotion Player:13883] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T19:45:08+03:00 [Genymotion:13834] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:45:08+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T19:45:23+03:00 [Genymotion:13834] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:45:23+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T19:57:17+03:00 [Genymotion:13834] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "OFF"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T19:57:17+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::OFF
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [debug] Remove device "38cf629e-df29-4352-889d-9eb0648e2a73"
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "38cf629e-df29-4352-889d-9eb0648e2a73" 1
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [debug] Device status "Off"
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [debug] [VMTools] deleteMachine() with path "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2"
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [warning] No notification with id "Device.38cf629e-df29-4352-889d-9eb0648e2a73"
+2023-06-10T22:07:58+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "38cf629e-df29-4352-889d-9eb0648e2a73" -1
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [debug] Remove device "59e7452e-866a-4ba0-a7c3-55a73eb07571"
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "59e7452e-866a-4ba0-a7c3-55a73eb07571" 1
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [debug] Device status "Off"
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [debug] [VMTools] deleteMachine() with path "/home/deck/.Genymobile/Genymotion/deployed/Google Pixel 2_1"
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [warning] No notification with id "Device.59e7452e-866a-4ba0-a7c3-55a73eb07571"
+2023-06-10T22:08:05+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "59e7452e-866a-4ba0-a7c3-55a73eb07571" -1
+2023-06-10T22:08:10+03:00 [Genymotion:13834] [debug] Remove device "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a"
+2023-06-10T22:08:10+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" 1
+2023-06-10T22:08:11+03:00 [Genymotion:13834] [debug] Device status "Off"
+2023-06-10T22:08:11+03:00 [Genymotion:13834] [debug] [VMTools] deleteMachine() with path "/home/deck/.Genymobile/Genymotion/deployed/Xiaomi Redmi Note 7"
+2023-06-10T22:08:11+03:00 [Genymotion:13834] [warning] No notification with id "Device.ce3788be-cb38-4c9c-a8b9-16ed1b7b718a"
+2023-06-10T22:08:11+03:00 [Genymotion:13834] [debug] onDeviceWorkerChanged "ce3788be-cb38-4c9c-a8b9-16ed1b7b718a" -1
+2023-06-10T22:08:39+03:00 [Genymotion:13834] [debug] 14818 MBytes of RAM.
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [debug] Starting device "11cb402b-60cc-4861-8966-ee5f98855ee9" AbstractDeviceListController::DeviceUpdatePolicy::REQUIRED_UPDATE
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [debug] [VMTools] See no QEMU process with PID 13905
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [debug] Device is up to date
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] ==== STARTING PLAYER (pre-start) ====
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] Player version: "3.4.0" 20230531-8bf9e3f247
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] args: ("/home/deck/Downloads/genymotion/player", "--vm-name", "11cb402b-60cc-4861-8966-ee5f98855ee9", "--resume")
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] Theme assetsUrl "qrc:/themes/default"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Loading "qemu" plugin
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Constructing engine
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Chipset: "AuthenticAMD"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] CPUID 0x80000001 (AMD): ECX= "7ed8320b"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] QEMU path: "/home/deck/Downloads/genymotion/qemu/x86_64/bin/qemu-system-x86_64"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Initializing engine
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Call: ("--version")
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] Return code: 0
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] QEMU version string : "7.2.0"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] VMX/SVM CPU availability: false
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] VM engine version: "7.2.0"
+2023-06-10T22:09:45+03:00 [Genymotion Player:14705] [debug] [VMTools] See no QEMU process with PID 13905
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "BOOTING"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T22:09:45+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::BOOTING
+2023-06-10T22:10:01+03:00 [Genymotion:13834] [debug] Received remote message QMap(("endpoint", QVariant(QString, "setDeviceStatus"))("status", QVariant(QString, "ON"))("uuid", QVariant(QString, "11cb402b-60cc-4861-8966-ee5f98855ee9")))
+2023-06-10T22:10:01+03:00 [Genymotion:13834] [info] setDeviceStatus "11cb402b-60cc-4861-8966-ee5f98855ee9" DeviceListModel::Status::ON
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] "Generate logs for: 11cb402b-60cc-4861-8966-ee5f98855ee9"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Creating temporary folder: "/tmp/genymotion-logs-tmp"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] walking through  "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/logcat-UyxaFU.txt" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-logcat-UyxaFU.txt"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/logcat.txt" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-logcat.txt"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/shared/config/device.json" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-device.json"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/genymotion-player.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-genymotion-player.log"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/open_gapps_debug_logs.tar.gz" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-open_gapps_debug_logs.tar.gz"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/qemu.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-qemu.log"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "/home/deck/Downloads/genymotion/tools/glewinfo" with args ()
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "lsmod" with args ()
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "lspci" with args ()
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ip" with args ("rule")
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ip" with args ("route")
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "free" with args ()
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ps" with args ("afx")
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "df" with args ("-kh")
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "dmesg" with args ()
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "cat" with args ("/proc/cpuinfo")
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/genymotion.log" to "/tmp/genymotion-logs-tmp/general-genymotion.log"

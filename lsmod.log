@@ -1,0 +1,146 @@
+Module                  Size  Used by
+uinput                 20480  1
+snd_seq_dummy          16384  0
+snd_hrtimer            16384  1
+snd_seq                86016  7 snd_seq_dummy
+snd_seq_device         16384  1 snd_seq
+ccm                    20480  3
+algif_aead             16384  0
+cbc                    16384  0
+des_generic            16384  0
+libdes                 24576  1 des_generic
+ecb                    16384  0
+md4                    16384  0
+cmac                   16384  3
+algif_hash             16384  1
+algif_skcipher         16384  1
+af_alg                 32768  7 algif_hash,algif_skcipher,algif_aead
+ramoops                32768  0
+reed_solomon           20480  1 ramoops
+bnep                   28672  2
+intel_rapl_msr         20480  0
+intel_rapl_common      28672  1 intel_rapl_msr
+snd_soc_acp5x_mach     20480  6
+snd_acp5x_pcm_dma      16384  1
+snd_acp5x_i2s          16384  2
+edac_mce_amd           40960  0
+kvm_amd               139264  8
+rtw88_8822ce           16384  0
+kvm                  1019904  1 kvm_amd
+rtw88_8822c           495616  1 rtw88_8822ce
+rtw88_pci              28672  1 rtw88_8822ce
+rtw88_core            237568  2 rtw88_pci,rtw88_8822c
+irqbypass              16384  19 kvm
+rapl                   20480  0
+pcspkr                 16384  0
+mac80211             1171456  2 rtw88_pci,rtw88_core
+snd_hda_codec_hdmi     73728  1
+btusb                  69632  0
+btrtl                  28672  1 btusb
+snd_hda_intel          57344  1
+btbcm                  20480  1 btusb
+btintel                32768  1 btusb
+snd_intel_dspcfg       28672  1 snd_hda_intel
+snd_soc_cs35l41_spi    98304  2
+snd_intel_sdw_acpi     20480  1 snd_intel_dspcfg
+snd_hda_codec         172032  2 snd_hda_codec_hdmi,snd_hda_intel
+snd_soc_wm_adsp        81920  1 snd_soc_cs35l41_spi
+bluetooth             729088  30 btrtl,btintel,btbcm,bnep,btusb
+snd_soc_nau8821        53248  2 snd_soc_acp5x_mach
+snd_pci_acp5x          20480  0
+cfg80211             1040384  2 rtw88_core,mac80211
+snd_soc_core          339968  6 snd_acp5x_i2s,snd_soc_nau8821,snd_soc_wm_adsp,snd_acp5x_pcm_dma,snd_soc_cs35l41_spi,snd_soc_acp5x_mach
+snd_hda_core          106496  3 snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec
+snd_rn_pci_acp3x       20480  0
+mousedev               24576  0
+ecdh_generic           16384  2 bluetooth
+cdc_acm                40960  0
+joydev                 28672  0
+snd_compress           32768  2 snd_soc_wm_adsp,snd_soc_core
+snd_hwdep              16384  1 snd_hda_codec
+ac97_bus               16384  1 snd_soc_core
+rfkill                 32768  8 bluetooth,cfg80211
+snd_pcm_dmaengine      16384  1 snd_soc_core
+ecc                    40960  1 ecdh_generic
+i2c_piix4              28672  0
+snd_pci_acp3x          20480  0
+libarc4                16384  1 mac80211
+jupiter                20480  0
+snd_pcm               147456  13 snd_soc_nau8821,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec,snd_acp5x_pcm_dma,snd_compress,snd_soc_core,snd_soc_cs35l41_spi,snd_hda_core,snd_soc_acp5x_mach,snd_pcm_dmaengine
+snd_timer              45056  3 snd_seq,snd_hrtimer,snd_pcm
+ina2xx_adc             28672  0
+opt3001                20480  0
+kfifo_buf              16384  1 ina2xx_adc
+spi_amd                20480  0
+snd                   114688  27 snd_seq,snd_seq_device,snd_hda_codec_hdmi,snd_hwdep,snd_hda_intel,snd_soc_wm_adsp,snd_hda_codec,snd_timer,snd_compress,snd_soc_core,snd_soc_cs35l41_spi,snd_pcm,snd_soc_acp5x_mach
+mac_hid                16384  0
+ina2xx                 20480  0
+ltrf216a               16384  0
+soundcore              16384  1 snd
+industrialio           98304  4 ltrf216a,opt3001,kfifo_buf,ina2xx_adc
+acpi_cpufreq           32768  0
+fuse                  163840  5
+ip_tables              36864  0
+x_tables               53248  1 ip_tables
+overlay               147456  1
+ext4                  933888  2
+crc16                  16384  2 bluetooth,ext4
+mbcache                16384  1 ext4
+jbd2                  147456  1 ext4
+hid_steam              28672  0
+ff_memless             20480  1 hid_steam
+usbhid                 65536  0
+amdgpu               7438336  270
+drm_ttm_helper         16384  1 amdgpu
+ttm                    86016  2 amdgpu,drm_ttm_helper
+agpgart                45056  1 ttm
+gpu_sched              49152  1 amdgpu
+serio_raw              20480  0
+i2c_algo_bit           16384  1 amdgpu
+atkbd                  36864  0
+drm_kms_helper        303104  2 amdgpu
+hid_multitouch         32768  0
+sdhci_pci              73728  0
+libps2                 20480  1 atkbd
+vfat                   24576  2
+ccp                   118784  1 kvm_amd
+syscopyarea            16384  1 drm_kms_helper
+fat                    86016  1 vfat
+cqhci                  36864  1 sdhci_pci
+sysfillrect            16384  1 drm_kms_helper
+sysimgblt              16384  1 drm_kms_helper
+sdhci                  81920  1 sdhci_pci
+fb_sys_fops            16384  1 drm_kms_helper
+crct10dif_pclmul       16384  1
+cec                    65536  1 drm_kms_helper
+crc32_pclmul           16384  0
+ghash_clmulni_intel    16384  0
+wdat_wdt               20480  0
+drm                   581632  47 gpu_sched,drm_kms_helper,amdgpu,drm_ttm_helper,ttm
+mmc_core              196608  3 sdhci,cqhci,sdhci_pci
+rng_core               16384  1 ccp
+aesni_intel           380928  6
+xhci_pci               20480  0
+crypto_simd            16384  1 aesni_intel
+sp5100_tco             20480  0
+xhci_pci_renesas       20480  1 xhci_pci
+cryptd                 24576  3 crypto_simd,ghash_clmulni_intel
+i8042                  32768  0
+serio                  28672  4 serio_raw,atkbd,i8042
+video                  53248  0
+8250_dw                16384  0
+i2c_hid_acpi           16384  0
+i2c_hid                32768  1 i2c_hid_acpi
+btrfs                1638400  1
+blake2b_generic        20480  0
+xor                    24576  1 btrfs
+raid6_pq              122880  1 btrfs
+libcrc32c              16384  1 btrfs
+crc32c_generic         16384  0
+crc32c_intel           24576  6
+dm_mirror              28672  0
+dm_region_hash         24576  1 dm_mirror
+dm_log                 20480  2 dm_region_hash,dm_mirror
+dm_mod                163840  2 dm_log,dm_mirror
+pkcs8_key_parser       16384  0
+crypto_user            20480  0
