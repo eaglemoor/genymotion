@@ -5,7 +5,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 2045.066
+cpu MHz		: 1700.000
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8
@@ -61,7 +61,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 1700.000
+cpu MHz		: 2060.670
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8
@@ -89,7 +89,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 2099.833
+cpu MHz		: 2800.000
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8
@@ -117,7 +117,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 2400.000
+cpu MHz		: 1566.139
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8
@@ -173,7 +173,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 1700.000
+cpu MHz		: 1826.601
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8
@@ -201,7 +201,7 @@ model		: 144
 model name	: AMD Custom APU 0405
 stepping	: 2
 microcode	: 0x8900201
-cpu MHz		: 2255.522
+cpu MHz		: 2400.000
 cache size	: 512 KB
 physical id	: 0
 siblings	: 8

@@ -1115,3 +1115,24 @@
 2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "dmesg" with args ()
 2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Running "cat" with args ("/proc/cpuinfo")
 2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/genymotion.log" to "/tmp/genymotion-logs-tmp/general-genymotion.log"
+2023-06-10T22:11:24+03:00 [Genymotion:13834] [debug] [LogCollector] Removing temporary folder: "/tmp/genymotion-logs-tmp"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] "Generate logs for: 11cb402b-60cc-4861-8966-ee5f98855ee9"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Creating temporary folder: "/tmp/genymotion-logs-tmp"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] walking through  "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/logcat-UyxaFU.txt" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-logcat-UyxaFU.txt"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/logcat.txt" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-logcat.txt"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/shared/config/device.json" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-device.json"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/genymotion-player.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-genymotion-player.log"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/open_gapps_debug_logs.tar.gz" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-open_gapps_debug_logs.tar.gz"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/Genymotion/deployed/Amazon Fire HD 8/qemu.log" to "/tmp/genymotion-logs-tmp/Amazon Fire HD 8-qemu.log"
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "/home/deck/Downloads/genymotion/tools/glewinfo" with args ()
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "lsmod" with args ()
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "lspci" with args ()
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ip" with args ("rule")
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ip" with args ("route")
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "free" with args ()
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "ps" with args ("afx")
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "df" with args ("-kh")
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "dmesg" with args ()
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Running "cat" with args ("/proc/cpuinfo")
+2023-06-10T22:12:47+03:00 [Genymotion:13834] [debug] [LogCollector] Copying file "/home/deck/.Genymobile/genymotion.log" to "/tmp/genymotion-logs-tmp/general-genymotion.log"

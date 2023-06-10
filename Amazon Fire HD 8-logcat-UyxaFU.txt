@@ -10088,3 +10088,148 @@
 06-10 15:11:20.710 I/system_server(  486): The ClassLoaderContext is a special shared library.
 06-10 15:11:20.722 I/BackgroundDexOptService(  486): Pinning optimized code {}
 06-10 15:11:23.893 D/WificondControl(  486): Scan result ready event
+06-10 15:11:32.064 I/ActivityManager(  486): Killing 2793:com.google.android.carriersetup/u0a71 (adj 906): empty #17
+06-10 15:11:32.064 W/libprocessgroup(  486): kill(-2793, 9) failed: No such process
+06-10 15:11:32.085 I/Zygote  (  219): Process 2793 exited due to signal (9)
+06-10 15:11:32.092 W/libprocessgroup(  486): kill(-2793, 9) failed: No such process
+06-10 15:11:32.092 I/libprocessgroup(  486): Successfully killed process cgroup uid 10071 pid 2793 in 28ms
+06-10 15:12:11.790 I/Dialer  ( 2865): OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_STATUS_SMS_TIME_OUT
+06-10 15:12:11.790 I/Dialer  ( 2865): RetryPolicy - discarding deferred status: configuration_state=4
+06-10 15:12:11.791 I/Dialer  ( 2865): VvmTaskExecutor - no more tasks, stopping service if no task are added in 5000 millis
+06-10 15:12:11.792 I/Dialer  ( 2865): VvmTaskReceiver - task received
+06-10 15:12:11.792 I/Dialer  ( 2865): VvmTaskReceiver - TaskExecutor already running
+06-10 15:12:11.793 I/Dialer  ( 2865): Task.createTask - create task:com.android.voicemail.impl.ActivationTask
+06-10 15:12:11.793 I/Dialer  ( 2865): RetryPolicy - retry #2 for com.android.voicemail.impl.ActivationTask@e07b703 queued, executing in 5000
+06-10 15:12:11.793 I/Dialer  ( 2865): VvmTaskExecutor - com.android.voicemail.impl.ActivationTask@e07b703 added
+06-10 15:12:11.793 I/Dialer  ( 2865): VvmTaskExecutor - minimal wait time:4999
+06-10 15:12:11.793 I/Dialer  ( 2865): VvmTaskExecutor - sleep for 4999 millis
+06-10 15:12:16.833 I/Dialer  ( 2865): VvmTaskExecutor - executing task com.android.voicemail.impl.ActivationTask@e07b703
+06-10 15:12:16.834 I/Dialer  ( 2865): PreOMigrationHandler - ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0} already migrated
+06-10 15:12:16.877 I/VoicemailNotifier( 1572): receivers for android.intent.action.PROVIDER_CHANGED :[]
+06-10 15:12:16.879 I/Dialer  ( 2865): VvmActivationTask - VVM content provider configured - vvm_type_cvvm
+06-10 15:12:16.879 I/Dialer  ( 2865): OmtpVvmCarrierCfgHlpr - OmtpEvent:CONFIG_ACTIVATING
+06-10 15:12:16.885 I/VoicemailNotifier( 1572): receivers for android.intent.action.PROVIDER_CHANGED :[]
+06-10 15:12:16.890 I/Dialer  ( 2865): TelephonyMangerCompat.setVisualVoicemailSmsFilterSettings - using TelephonyManager
+06-10 15:12:16.894 I/Dialer  ( 2865): TelephonyMangerCompat.sendVisualVoicemailSms - using TelephonyManager
+06-10 15:12:16.907 D/baseband-sms(  541): newsms
+06-10 15:12:16.907 D/baseband-sms(  541): sender:(N/A)
+06-10 15:12:16.907 D/baseband-sms(  541): receiver:122
+06-10 15:12:16.907 D/baseband-sms(  541): index:1/1
+06-10 15:12:16.907 D/baseband-sms(  541): txt:'FQKf.Σ:etΔ#'
+06-10 15:12:16.904 I/genybaseband(  541): type=1400 audit(0.0:926): avc: denied { write } for path="socket:[18487]" dev="sockfs" ino=18487 scontext=u:r:genybaseband:s0 tcontext=u:r:genybaseband:s0 tclass=tcp_socket permissive=1
+06-10 15:12:18.500 I/Zygote  ( 3799): seccomp disabled by setenforce 0
+06-10 15:12:18.502 W/id.defcontaine( 3799): Unexpected CPU variant for X86 using defaults: x86
+06-10 15:12:18.505 I/ActivityManager(  486): Start proc 3799:com.android.defcontainer/u0a19 for service com.android.defcontainer/.DefaultContainerService
+06-10 15:12:18.514 I/id.defcontaine( 3799): The ClassLoaderContext is a special shared library.
+06-10 15:12:18.549 I/Finsky  ( 2235): [2] afoz.c(8): VerifyApps: Install-time verification requested for package com.td.watcherofrealms, id = 0
+06-10 15:12:18.557 I/Finsky  ( 2235): [258] VerifyAppsInstallTask.ajF(3): VerifyApps: Anti-malware verification task started for package=com.td.watcherofrealms
+06-10 15:12:18.558 I/Finsky  ( 2235): [258] afsz.a(10): Single user settings service is not running, bind it now
+06-10 15:12:18.561 I/Finsky  ( 2235): [2] pwu.onServiceConnected(4): Single user settings service is connected
+06-10 15:12:18.569 D/BoundBrokerSvc( 1242): onBind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+06-10 15:12:18.570 D/BoundBrokerSvc( 1242): Loading bound service for intent: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+06-10 15:12:18.573 W/Settings( 2235): Setting install_non_market_apps has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+06-10 15:12:18.576 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_NETWORK_STATE in package: com.td.watcherofrealms at: Binary XML file line #52
+06-10 15:12:18.576 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.td.watcherofrealms at: Binary XML file line #53
+06-10 15:12:18.576 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WAKE_LOCK in package: com.td.watcherofrealms at: Binary XML file line #54
+06-10 15:12:18.576 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: com.google.android.c2dm.permission.RECEIVE in package: com.td.watcherofrealms at: Binary XML file line #55
+06-10 15:12:18.577 W/PackageParser( 2235): Unknown element under <manifest>: queries at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #69
+06-10 15:12:18.577 W/PackageParser( 2235): No actions in intent filter at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #206
+06-10 15:12:18.577 W/PackageParser( 2235): No actions in intent filter at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #213
+06-10 15:12:19.116 I/wifi@1.0-servic(  529): type=1400 audit(0.0:928): avc: denied { write } for scontext=u:r:hal_wifi_default:s0 tcontext=u:r:hal_wifi_default:s0 tclass=netlink_route_socket permissive=1
+06-10 15:12:19.116 I/wifi@1.0-servic(  529): type=1400 audit(0.0:929): avc: denied { nlmsg_read } for scontext=u:r:hal_wifi_default:s0 tcontext=u:r:hal_wifi_default:s0 tclass=netlink_route_socket permissive=1
+06-10 15:12:19.441 I/android.vendin( 2235): Waiting for a blocking GC ProfileSaver
+06-10 15:12:19.522 I/Finsky  ( 2235): [258] ofa.e(3): Task 7 requested foreground
+06-10 15:12:19.522 I/Finsky  ( 2235): [258] ofa.e(7): Not entering foreground
+06-10 15:12:20.127 I/Finsky  ( 2235): [261] afoc.f(3): VerifyApps: Verification package=com.td.watcherofrealms, id=0, response=0, upload_requested=false
+06-10 15:12:20.136 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.ACCESS_NETWORK_STATE in package: com.td.watcherofrealms at: Binary XML file line #52
+06-10 15:12:20.137 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.INTERNET in package: com.td.watcherofrealms at: Binary XML file line #53
+06-10 15:12:20.137 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: android.permission.WAKE_LOCK in package: com.td.watcherofrealms at: Binary XML file line #54
+06-10 15:12:20.137 W/PackageParser( 2235): Ignoring duplicate uses-permissions/uses-permissions-sdk-m: com.google.android.c2dm.permission.RECEIVE in package: com.td.watcherofrealms at: Binary XML file line #55
+06-10 15:12:20.137 W/PackageParser( 2235): Unknown element under <manifest>: queries at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #69
+06-10 15:12:20.137 W/PackageParser( 2235): No actions in intent filter at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #206
+06-10 15:12:20.137 W/PackageParser( 2235): No actions in intent filter at /data/app/vmdl73338428.tmp/base.apk Binary XML file line #213
+06-10 15:12:20.301 W/ActivityManager(  486): Unable to start service Intent { act=com.google.android.gms.drive.ApiService.RESET_AFTER_BOOT flg=0x4 cmp=com.google.android.gms/.drive.api.ApiService (has extras) } U=0: not found
+06-10 15:12:20.338 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService started execution. cause:4 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.341 V/NFC     ( 1064): this device does not have NFC support
+06-10 15:12:20.342 W/TapAndPay( 1064): NfcAdapter is null while obtaining CardEmulation instance. [CONTEXT service_id=79 ]
+06-10 15:12:20.342 W/TapAndPay( 1064): java.lang.NullPointerException: NfcAdapter is null
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at android.nfc.cardemulation.CardEmulation.getInstance(CardEmulation.java:146)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at buib.<init>(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at com.google.android.gms.tapandpay.hce.task.TapAndPayAidRegistrationTaskOperation.a(:com.google.android.gms@231819031@23.18.19 (100700-536743017):5)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskChimeraService.a(:com.google.android.gms@231819031@23.18.19 (100700-536743017):4)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at axan.call(:com.google.android.gms@231819031@23.18.19 (100700-536743017):4)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at adpp.c(:com.google.android.gms@231819031@23.18.19 (100700-536743017):6)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at adpp.run(:com.google.android.gms@231819031@23.18.19 (100700-536743017):7)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at adva.run(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.342 W/TapAndPay( 1064): 	at java.lang.Thread.run(Thread.java:764)
+06-10 15:12:20.359 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService started execution. cause:4 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.363 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService finished executing. cause:4 result: 3 elapsed_millis: 40 uptime_millis: 40 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.379 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.tapandpay.gcmtask.TapAndPayGcmTaskService finished executing. cause:4 result: 1 elapsed_millis: 15 uptime_millis: 15 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.410 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:5 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.413 D/BoundBrokerSvc( 1064): onBind: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:20.413 D/BoundBrokerSvc( 1064): Loading bound service for intent: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:20.438 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService started execution. cause:5 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.470 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:5 result: 1 elapsed_millis: 72 uptime_millis: 72 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.486 D/BoundBrokerSvc( 1064): onBind: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:20.486 D/BoundBrokerSvc( 1064): Loading bound service for intent: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:20.509 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.telephonyspam.sync.SpamListSyncTaskService started execution. cause:5 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.510 I/TelephonySpamChimeraSer( 1242): Running Telephony Spam Chimera Service [CONTEXT service_id=150 ]
+06-10 15:12:20.517 I/TelephonySpamChimeraSer( 1242): Cleaning SIP Header local table of old entries [CONTEXT service_id=150 ]
+06-10 15:12:20.518 I/SpamListSync( 1242): Call spam module disabled. Skipping cleaning cache sip header table. [CONTEXT service_id=150 ]
+06-10 15:12:20.519 I/TelephonySpamChimeraSer( 1242): Syncing Call Spam List [CONTEXT service_id=150 ]
+06-10 15:12:20.519 I/SpamListSync( 1242): SpamListSyncChimeraService.syncSpamList called with tag: telephonyspam.SpamListSyncOneOffTask, extras: Bundle[{SpamList Type=0, Action=1.0}] [CONTEXT service_id=150 ]
+06-10 15:12:20.519 I/SpamListSync( 1242): Call spam module disabled. Skipping spam list syncing. [CONTEXT service_id=150 ]
+06-10 15:12:20.523 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.telephonyspam.sync.SpamListSyncTaskService finished executing. cause:5 result: 1 elapsed_millis: 32 uptime_millis: 32 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.551 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService started execution. cause:5 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.663 W/GmsUrlRequestImpl( 1064): Content-Type header is overwritten.
+06-10 15:12:20.783 I/Finsky  ( 2235): [258] VerifyMissingSplitsInstallTask.ajF(13): Package com.td.watcherofrealms blocked since it is missing required splits.
+06-10 15:12:20.783 I/Finsky  ( 2235): [258] VerifyInstallTask.k(2): VerifyApps: Returning package verification result id=0, result=REJECT
+06-10 15:12:20.785 I/Finsky  ( 2235): [2] VerifyInstallTask.ajE(7): VerifyApps: Verification complete: id=0, package_name=com.td.watcherofrealms
+06-10 15:12:20.785 I/Finsky  ( 2235): [2] afth.i(3): VerifyApps: Install verification already finished, ignoring sub-task callback, id=0
+06-10 15:12:20.788 D/PackageInstaller(  486): Ignoring abandon after commit relinquished control
+06-10 15:12:20.889 W/GLSUser ( 1064): [AppCertManager] Exception while requesting key: 
+06-10 15:12:20.889 W/GLSUser ( 1064): java.util.concurrent.ExecutionException: awwr: Parse Proto Exception.
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dafv.s(:com.google.android.gms@231819031@23.18.19 (100700-536743017):3)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dafv.get(:com.google.android.gms@231819031@23.18.19 (100700-536743017):7)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at ouy.b(:com.google.android.gms@231819031@23.18.19 (100700-536743017):78)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at ouw.b(:com.google.android.gms@231819031@23.18.19 (100700-536743017):4)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at our.a(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at ouu.a(:com.google.android.gms@231819031@23.18.19 (100700-536743017):6)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at man.call(:com.google.android.gms@231819031@23.18.19 (100700-536743017):14)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at adpp.c(:com.google.android.gms@231819031@23.18.19 (100700-536743017):6)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at adpp.run(:com.google.android.gms@231819031@23.18.19 (100700-536743017):7)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at adva.run(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at java.lang.Thread.run(Thread.java:764)
+06-10 15:12:20.889 W/GLSUser ( 1064): Caused by: awwr: Parse Proto Exception.
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at awxi.f(:com.google.android.gms@231819031@23.18.19 (100700-536743017):5)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at awyf.onSucceeded(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at jg.onSucceeded(:com.google.android.gms.dynamite_cronetdynamite@231819031@23.18.19 (100700-0):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at if.run(:com.google.android.gms.dynamite_cronetdynamite@231819031@23.18.19 (100700-0):4)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	... 6 more
+06-10 15:12:20.889 W/GLSUser ( 1064): Caused by: dmqn: Protocol message contained an invalid tag (zero).
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmnq.k(:com.google.android.gms@231819031@23.18.19 (100700-536743017):13)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmro.c(:com.google.android.gms@231819031@23.18.19 (100700-536743017):47)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmro.h(:com.google.android.gms@231819031@23.18.19 (100700-536743017):45)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmps.A(:com.google.android.gms@231819031@23.18.19 (100700-536743017):2)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmpm.f(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmnm.d(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmnm.c(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at dmnm.n(:com.google.android.gms@231819031@23.18.19 (100700-536743017):0)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at awxi.h(:com.google.android.gms@231819031@23.18.19 (100700-536743017):7)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	at awxi.f(:com.google.android.gms@231819031@23.18.19 (100700-536743017):1)
+06-10 15:12:20.889 W/GLSUser ( 1064): 	... 9 more
+06-10 15:12:20.893 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.auth.account.be.legacy.AuthCronService finished executing. cause:5 result: 3 elapsed_millis: 356 uptime_millis: 356 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:20.927 D/BoundBrokerSvc( 1064): onBind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:20.927 D/BoundBrokerSvc( 1064): Loading bound service for intent: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:21.886 I/NetworkScheduler.Stats( 1064): Task com.google.android.gms/com.google.android.gms.clearcut.uploader.QosUploaderService finished executing. cause:5 result: 1 elapsed_millis: 1457 uptime_millis: 1457 exec_start_elapsed_seconds: 153 [CONTEXT service_id=218 ]
+06-10 15:12:22.321 W/BatteryExternalStatsWorker(  486): modem info is invalid: ModemActivityInfo{ mTimestamp=0 mSleepTimeMs=0 mIdleTimeMs=0 mTxTimeMs[]=[0, 0, 0, 0, 0] mRxTimeMs=0 mEnergyUsed=0}
+06-10 15:12:33.607 D/BoundBrokerSvc( 1242): onUnbind: Intent { act=com.google.android.gms.safetynet.service.START pkg=com.google.android.gms }
+06-10 15:12:35.474 D/BoundBrokerSvc( 1064): onUnbind: Intent { act=com.google.android.gms.phenotype.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:35.493 D/BoundBrokerSvc( 1064): onUnbind: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+06-10 15:12:35.934 D/BoundBrokerSvc( 1064): onUnbind: Intent { act=com.google.android.gms.auth.account.workaccount.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }

@@ -1720,3 +1720,16 @@ stdout: ""
 2023-06-10T22:10:02+03:00 [Genymotion Player:14705] [debug] [Adb][shell] ("setprop", "persist.debug.layout", "0")  - exit code: 0
 2023-06-10T22:10:02+03:00 [Genymotion Player:14705] [debug] [Adb][shell] command: "/home/deck/Downloads/genymotion/tools/adb" -s "127.0.0.1:6555" shell ("service", "call", "activity", "1599295570")
 2023-06-10T22:10:02+03:00 [Genymotion Player:14705] [debug] [Adb][shell] ("service", "call", "activity", "1599295570")  - exit code: 0
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][parseUrlList] file to drag and drop: QUrl("file:///home/deck/Sync/watcherofrealms_1.apk")
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][parseUrlList][toLocalFile] file to drag and drop: "/home/deck/Sync/watcherofrealms_1.apk"
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][parseUrlList] Will not check archive for this drop
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][setWorkInProgress] true
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [FileUploader][run] "/home/deck/Sync/watcherofrealms_1.apk"
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [FileUploader][installOrPushFile] "/home/deck/Sync/watcherofrealms_1.apk"
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [FileUploader][installFile] "/home/deck/Sync/watcherofrealms_1.apk"
+2023-06-10T22:12:15+03:00 [Genymotion Player:14705] [debug] [Adb][install] run "/home/deck/Downloads/genymotion/tools/adb" command: ("-s", "127.0.0.1:6555", "install", "-r", "/home/deck/Sync/watcherofrealms_1.apk")
+2023-06-10T22:12:20+03:00 [Genymotion Player:14705] [critical] [Adb][install] "127.0.0.1:6555" : unable to install file: "/home/deck/Sync/watcherofrealms_1.apk" : "adb: failed to install /home/deck/Sync/watcherofrealms_1.apk: Failure [INSTALL_FAILED_VERIFICATION_FAILURE]\nPerforming Streamed Install\n"
+2023-06-10T22:12:20+03:00 [Genymotion Player:14705] [critical] [FileUploader][installApk] error occured for  "/home/deck/Sync/watcherofrealms_1.apk" AdbClient::UNKNOWN
+2023-06-10T22:12:20+03:00 [Genymotion Player:14705] [critical] [DragNDropManager][slotError] "Please refer to Genymotion logs for more information."
+2023-06-10T22:12:20+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][slotFinished]
+2023-06-10T22:12:25+03:00 [Genymotion Player:14705] [debug] [DragNDropManager][setWorkInProgress] false
